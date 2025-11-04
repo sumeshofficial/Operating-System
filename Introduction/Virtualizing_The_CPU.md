@@ -36,9 +36,3 @@ It decides:
  - When to pause or resume a task
 
 This scheduling is based on different policies and algorithms, which help the OS balance performance, fairness, and responsiveness.
-
-### Summary
-
-#### In simple terms:
-
-The OS performs CPU virtualization by dividing the CPU’s time among many programs so that each one feels like it has its own processor — even though they all share the same physical CPU.
