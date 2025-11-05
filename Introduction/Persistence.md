@@ -34,13 +34,13 @@ This system keeps track of:
 
 The **File Manager** is a core component of the Operating System that:
 
-Organizes data into files and directories
+- Organizes data into files and directories
 
-Keeps track of file locations on disk
+- Keeps track of file locations on disk
 
-Controls permissions (who can access or modify files)
+- Controls permissions (who can access or modify files)
 
-Handles I/O operations safely and efficiently
+- Handles I/O operations safely and efficiently
 
 Unlike **virtual memory**, file management deals with actual physical data stored on disk.
 It ensures your data remains persistent and protected from system failures.
