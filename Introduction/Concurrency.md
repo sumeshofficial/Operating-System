@@ -22,7 +22,7 @@ Both people (threads) try to withdraw ₹50 at the same time.
 | 1    | Reads ₹100          | —                   | ₹100                                      |
 | 2    | —                   | Reads ₹100          | ₹100                                      |
 | 3    | Subtracts ₹50 → ₹50 | Subtracts ₹50 → ₹50 | Both think balance = ₹50                  |
-| 4    | Writes ₹50          | Writes ₹50          | Final balance = **₹50 ❌** (should be ₹0) |
+| 4    | Writes ₹50          | Writes ₹50          | Final balance = **₹50 (should be ₹0) |
 
 ### What Happened?
 
